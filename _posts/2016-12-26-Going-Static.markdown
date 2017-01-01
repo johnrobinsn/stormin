@@ -4,7 +4,7 @@ title: Makin' Static...
 date: 2017-01-01 05:00:00 -0500
 ---
 
-![Jekyll](/stormin/assets/jekyll_logo.png)
+![Jekyll]({{ sitelurl }/assets/jekyll_logo.png)
 
 I've been using wordpress for my somewhat intermittent blog for well over ten years now, but for 2017 I wanted to give something new a try.  Don't get me wrong wordpress hasn't been all **_that_** bad...  But philosophically I am a big proponent of static delivery of services where possible.  When most folk set out to design a service they immediately want to stick an app server at it's center, when they would be better served to think about the stability and cacheability characteristics of their service and leverage that in their design.  Trading "just-in-time compute" for "precompute" lets you take better advantage of "plain old web servers" and edge caching for static object delivery.
 
