@@ -8,7 +8,7 @@ For all of those that reached out to me about getting access to my old blog cont
 
 [http://wp.storminthecastle.com](http://wp.storminthecastle.com)
 
-Happy that it's still useful! <3 <3 <3
+Happy that it's still useful!​ ​:heart:​​:heart:​​:heart:​
 
 Enjoy!
 

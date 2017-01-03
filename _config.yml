@@ -26,8 +26,8 @@ github_username:  johnrobinsn
 markdown: kramdown
 theme: minima
 gems:
-  - jekyll-feed
   - jemoji
+  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
