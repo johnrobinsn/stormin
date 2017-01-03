@@ -18,3 +18,9 @@ After finally installing jekyll and poking around a bit, I've written my first _
 
 
 
+> Note: For all of those that reached out to me about getting access to my old blog content… You can now get to it here.
+>
+> [http://wp.storminthecastle.com](http://wp.storminthecastle.com)
+
+
+
