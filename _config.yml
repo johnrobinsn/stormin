@@ -21,6 +21,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.storminthecastle.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: johnrobinsn
 github_username:  johnrobinsn
+disqus:
+  shortname: storminthecastle
 
 # Build settings
 markdown: kramdown
@@ -31,7 +33,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "StorminTheCastle"
