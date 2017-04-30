@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Makin' Static...
+comments: true
 date: 2017-01-01 05:00:00 -0500
 ---
 
