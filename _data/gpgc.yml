@@ -1,0 +1,11 @@
+repo_owner: johnrobinsn
+repo_name: stormin
+disabled: false
+use_show_action: false
+label_name: Post Comments
+label_color: 666666
+github_application:
+  client_id: 495af1f7cd00d7f34728
+  code_authenticator: https://stormin-gatekeeper.herokuapp.com/authenticate/
+  callback_url: http://www.storminthecastle.com/public/html/gpgc_redirect/index.html
+enable_diagnostics: false
